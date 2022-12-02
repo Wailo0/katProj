@@ -9,6 +9,7 @@ public class Main {
 
 
 
+
     public static void main(String[] args) throws Exception {
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
         int [] firstMass = new int [10];
@@ -18,6 +19,9 @@ public class Main {
             secondMass[i] = i;
             thirdMass[i] = i*13;
         }
+        System.out.println("1");
+        System.out.println("1");
+        System.out.println("1");
         for (int a : secondMass){
 
         }
@@ -27,6 +31,9 @@ public class Main {
 
 
     }
+
+
+
 
 
 
